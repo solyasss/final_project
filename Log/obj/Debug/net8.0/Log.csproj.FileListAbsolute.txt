@@ -1,0 +1,11 @@
+D:\storage_final\Log\obj\Debug\net8.0\Log.GeneratedMSBuildEditorConfig.editorconfig
+D:\storage_final\Log\obj\Debug\net8.0\Log.AssemblyInfoInputs.cache
+D:\storage_final\Log\obj\Debug\net8.0\Log.AssemblyInfo.cs
+D:\storage_final\Log\obj\Debug\net8.0\Log.csproj.CoreCompileInputs.cache
+D:\storage_final\Log\bin\Debug\net8.0\Log.deps.json
+D:\storage_final\Log\bin\Debug\net8.0\Log.dll
+D:\storage_final\Log\bin\Debug\net8.0\Log.pdb
+D:\storage_final\Log\obj\Debug\net8.0\Log.dll
+D:\storage_final\Log\obj\Debug\net8.0\refint\Log.dll
+D:\storage_final\Log\obj\Debug\net8.0\Log.pdb
+D:\storage_final\Log\obj\Debug\net8.0\ref\Log.dll

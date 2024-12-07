@@ -1,0 +1,15 @@
+D:\storage_final\Storage\bin\Debug\net8.0\Storage.deps.json
+D:\storage_final\Storage\bin\Debug\net8.0\Storage.dll
+D:\storage_final\Storage\bin\Debug\net8.0\Storage.pdb
+D:\storage_final\Storage\bin\Debug\net8.0\Log.dll
+D:\storage_final\Storage\bin\Debug\net8.0\Log.pdb
+D:\storage_final\Storage\obj\Debug\net8.0\Storage.csproj.AssemblyReference.cache
+D:\storage_final\Storage\obj\Debug\net8.0\Storage.GeneratedMSBuildEditorConfig.editorconfig
+D:\storage_final\Storage\obj\Debug\net8.0\Storage.AssemblyInfoInputs.cache
+D:\storage_final\Storage\obj\Debug\net8.0\Storage.AssemblyInfo.cs
+D:\storage_final\Storage\obj\Debug\net8.0\Storage.csproj.CoreCompileInputs.cache
+D:\storage_final\Storage\obj\Debug\net8.0\Storage.csproj.Up2Date
+D:\storage_final\Storage\obj\Debug\net8.0\Storage.dll
+D:\storage_final\Storage\obj\Debug\net8.0\refint\Storage.dll
+D:\storage_final\Storage\obj\Debug\net8.0\Storage.pdb
+D:\storage_final\Storage\obj\Debug\net8.0\ref\Storage.dll

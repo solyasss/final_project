@@ -1,0 +1,14 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Storage.StorageDevice, Storage]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "Storage.HDD, Storage",
+      "hhd_speed": 1,
+      "Manufacturer": "1",
+      "Model": "1",
+      "Name": "1",
+      "Capacity": 1.0,
+      "Quantity": 1
+    }
+  ]
+}
